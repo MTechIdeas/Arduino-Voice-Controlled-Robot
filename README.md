@@ -1,5 +1,7 @@
 # Arduino-Voice-Controlled-Robot
 Hey there, here in this article, I’m going to guide you to make an Arduino Voice Controlled Robot. This is very easy to make (for beginners) and very few components will be needed.
+
+
 How Arduino Voice Controlled Robot Works?
 As we have already mentioned that this is an Arduino-based project, so Arduino is working here as the brain of the robot. Everything we command to move the robot will be processed by the Arduino Microcontroller. We have to write a suitable code that will help the Arduino to process and follow our instructions.
 
